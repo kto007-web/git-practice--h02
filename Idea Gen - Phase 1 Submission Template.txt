@@ -1,0 +1,37 @@
+Name: Michelle Marlett
+Phase 1 - Idea Generation
+
+
+Idea 1: Medication dispenser
+What? A device that detects when medication needs to be given and sets out an alert to it being dispensed.
+Why? People with bad memory can forget to take medication so this helps remind them.
+
+
+Idea 2: Automatic pancake/waffle cooker
+What? A pancake cooker that has a timer and a waffle attachment. It also has a cooling system that works fast.
+Why? It turns off automatically so it won't burn and the cooling system cools it down fast to prevent injury.
+
+
+Idea 3: Orange peeling device
+What? It peels oranges for people.
+Why? Some people hate peeling oranges to this can peel it for them.
+
+
+Idea 4: Automatic watering pot
+What? A pot that detects how moist the soil is in itself and adds water as needed depending on the plant.
+Why? Lots of people don't know how much water a plant needs nor if they need to put water in it or not.
+
+
+Idea 5: Calorie measurer
+What? A device that measures how much calories are in a protion of food.
+Why? Helps with dieting or weight gaining.
+
+
+Idea 6: Lost and Found
+What? A website that shows thing people lost and if they had been found.
+Why? So people have a higher chance of finding what they need.
+
+
+Idea 7: Debugger
+What? A website that scans code, finds errors, and explains how and why the error happened and how to fix it.
+Why? It would be a great learning website for beginner programmers fixing their code.
